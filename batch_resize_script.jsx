@@ -27,7 +27,7 @@
 function Conversion(scale, prefix) {
 	this.scale = scale;
 	this.prefix = prefix;
-} 
+}
 
 var coeffs = new Array();
 coeffs.push(new Conversion(3,  "ldpi"));
