@@ -3,9 +3,9 @@
  * All you need is a folder with icons (or any other images). 
  * You'll get resized images placed in appropriate folders.
  *
- * For processing any arbitary images you can alter fractions ("scale" field 
+ * For processing any arbitrary images you can alter fractions ("scale" field 
  * and denominator value) and corresponding folder names. Change the line 49
- * if you are goind to process something different from .png.
+ * if you are going to process something different from .png.
  *
  * Hope this will help you avoid reading adobe documentation 
  * and save you a little time!
@@ -14,7 +14,7 @@
  ***************************************************************************/
 
 /****************************************************************************
- * Some defenitions 
+ * Some definitions 
  ***************************************************************************/
 
 // Conversion fractions:
